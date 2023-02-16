@@ -108,6 +108,7 @@ const Root = styled.div`
     background-color: grey;
     display: inline-block;
   }
+  
   .div2 {
     display: inline-block;
     width: calc(100% - ${({ theme }) => theme.divOneMax_Width});
