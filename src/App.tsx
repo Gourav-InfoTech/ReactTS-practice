@@ -49,7 +49,7 @@ function App() {
   };
 
   const something = {
-    max_width: "10vw",
+    max_width: "11vw",
   };
 
   return (
