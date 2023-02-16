@@ -29,7 +29,7 @@ import "./App.css";
   `;
 
   const Visit = styled.a`
-    color: red;
+    color: cyan;
   `;
 
 function App() {
