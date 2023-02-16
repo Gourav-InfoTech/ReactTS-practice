@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import logo from "./logo.svg";
 import "./App.css";
-import { calculateNewValue } from "@testing-library/user-event/dist/utils";
 
 const Title = styled.h1`
   font-size: 1.5em;
